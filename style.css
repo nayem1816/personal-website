@@ -9,7 +9,7 @@ section{
     width: 80%;
     margin: 0 auto;
     margin-bottom: 20px;
-    height: 400px;
+    height: 500px;
 }
 h2{
     font-size: 50px;
@@ -83,6 +83,19 @@ img{
 }
 /* about-part end */
 
+/* work-skill part start */
+#work-align h4{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    margin-left: 5px;
+}
+#work-align p{
+    margin-left: 10px;
+    margin-top: -25px;
+}
+/* work-skill part start */
+
 /* latest-work start  */
 .latest-work{
     background-color: #F8F9FC;
@@ -107,6 +120,7 @@ img{
     box-shadow: 10px 10px 40px rgb(228, 226, 226);
     padding: 15px;
     margin-left: 20px;
+    height: 300px;
 }
 .latest-work-width h3{
     color: #363958;
@@ -125,7 +139,7 @@ img{
 }
 .banner-text-left{
     position:absolute;
-    bottom: 240px;
+    bottom: 67%;
     left: 100px;
 }
 .banner-text-left h2{
@@ -136,7 +150,7 @@ img{
 }
 .banner-text-right{
     position: absolute;
-    bottom: 284px;
+    bottom: 76%;
     right: 100px;
 }
 .banner-button-design{
